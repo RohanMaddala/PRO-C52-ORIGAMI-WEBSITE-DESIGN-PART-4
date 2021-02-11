@@ -75,3 +75,11 @@ ul{
 .item:hover ul{
   opacity: 1;
 }
+
+a:link{
+    color:purple
+}
+
+a:visited{
+    color:purple
+}
